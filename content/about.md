@@ -1,6 +1,5 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+枫叶的个人站，我会在这里上传一些可能有独异性贡献的东西，譬如学习笔记、译介成果和科研工作等

@@ -36,5 +36,12 @@
       <guid>//localhost:4321/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
+    <item>
+      <title>通向R地狱之路</title>
+      <link>//localhost:4321/1/01/01/%E9%80%9A%E5%90%91r%E5%9C%B0%E7%8B%B1%E4%B9%8B%E8%B7%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/1/01/01/%E9%80%9A%E5%90%91r%E5%9C%B0%E7%8B%B1%E4%B9%8B%E8%B7%AF/</guid>
+      <description>前言 摘要 如果你正在使用R,并且发觉自己正身处地狱之中,本书可以提供一份指南&#xA;游荡 http://www.r-project.org.&#xA;为了陈述我在那儿发现的美好,我也会说出其他看到的东西.&#xA;离开正途后,我陷入了沉睡,醒来时发现自己在一片黑暗的森林中.我试图逃离这片森林,但我的路被一只狮子挡住了.当我逃向低处时,一个身影出现在我面前.“无论你是阴影还是活人,请怜悯我,”我哭喊道.&#xA;“我曾是人,但现在不是.我父母来自伦巴第.我生于凯撒统治时期,生活在一个充满虚假神明的罗马.”&#xA;“你是维吉尔,那位伟大的诗人吗？”&#xA;“我认为你最好跟随我.我将带你穿越一个永恒之地,在那里你将听到绝望的哭喊,看到那些古老的灵魂在第二次死亡中痛苦地哀悼.”&#xA;经过一段旅程,我们来到一个拱门前.上面刻着：“通过我,进入受苦之城的道路,通过我,走向迷失之人的道路.”我们穿过了拱门.&#xA;此刻,叹息和哀号在无星的空气中回荡,我也开始哭泣.陌生的语言,可怕的口音,愤怒的哭喊——所有这些在那黑暗无尽的空气中旋转.</description>
+    </item>
   </channel>
 </rss>
